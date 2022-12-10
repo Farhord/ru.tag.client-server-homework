@@ -1,0 +1,1 @@
+rootProject.name = "ru.tag.client-server-homework"
